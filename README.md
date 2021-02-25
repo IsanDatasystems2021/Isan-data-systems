@@ -3,7 +3,7 @@ ISAN Data Systems, specialize in cloud consulting, artificial intelligence, mach
 
 Our cluster of highly qualified professionals ensures that you get the agility, performance, scale, security, and cost-efficiency with a balance of financial and operational governance
 
-UR SERVICES
+OUR SERVICES
 
 Cloud Computing
 
